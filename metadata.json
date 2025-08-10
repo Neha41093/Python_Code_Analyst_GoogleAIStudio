@@ -1,0 +1,6 @@
+{
+  "name": "Python Code Analyst",
+  "description": "An intelligent chatbot that analyzes Python code to provide summaries, calculate key metrics, and answer follow-up questions.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
