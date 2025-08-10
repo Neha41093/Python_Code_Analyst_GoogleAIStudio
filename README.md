@@ -1,6 +1,8 @@
-# Run and deploy your AI Studio app
+# Deploy the Python Analyst AI Studio app
 
 This contains everything you need to run your app locally.
+
+**Existing URL: https://python-code-analyst-204522342353.us-west1.run.app/**
 
 ## Run Locally
 
